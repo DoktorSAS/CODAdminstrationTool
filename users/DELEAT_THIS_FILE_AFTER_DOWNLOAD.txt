@@ -1,4 +1,0 @@
-This is where the user files will be, it will be named their user id, with their player name inside.
-
-
-THIS FILE CAN AND SHOULD BE DELEATED!
