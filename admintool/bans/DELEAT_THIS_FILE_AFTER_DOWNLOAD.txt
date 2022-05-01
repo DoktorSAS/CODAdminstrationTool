@@ -1,0 +1,4 @@
+This is where the ban files are held, the file is there user id, and the text in the file will read th reason they were banned!
+
+
+THIS FILE CAN AND SHOULD BE DELEATED!

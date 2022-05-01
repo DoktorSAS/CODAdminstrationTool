@@ -1,0 +1,4 @@
+This is were the ids for the admins will go once using the promote command, or add them yourself
+
+
+THIS FILE CAN AND SHOULD BE DELEATED!
