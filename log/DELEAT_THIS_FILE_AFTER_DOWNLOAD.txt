@@ -1,3 +1,0 @@
-This is where the log files is stored
-
-THIS FILE CAN AND SHOULD BE DELEATED!
